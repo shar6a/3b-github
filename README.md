@@ -1,6 +1,6 @@
 # shara victoria arrais farias
 
-- estou estudando no 
+- estou estudando no alura
 - estou me desenvolvendo github
 - utilizo  esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
